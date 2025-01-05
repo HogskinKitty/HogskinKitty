@@ -2,7 +2,7 @@
 
 <pre>
 耕耘更好的程序和更好的自己。
-                                                                                          -- 致未来的自己
+                                                                                  -- 致未来的自己
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=HogskinKitty.HosskinKitty" align="center" alt="visitors">
